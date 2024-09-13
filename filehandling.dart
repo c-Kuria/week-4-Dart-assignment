@@ -28,7 +28,7 @@ Future<String> readFile(String path) async {
   try {
     final file = File(path);
     
-    // Check if the file exists before reading
+    // Check if the file exists
     if (await file.exists()) {
       return await file.readAsString();
     } else {
