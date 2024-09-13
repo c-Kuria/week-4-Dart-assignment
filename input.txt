@@ -1,0 +1,1 @@
+File handling in programming refers to the process of working with files (such as text, binary, or data files) for reading, writing, creating, or manipulating data stored in files. It enables programs to interact with files stored on a system’s disk or any other storage medium.
